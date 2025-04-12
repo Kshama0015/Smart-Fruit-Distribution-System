@@ -1,0 +1,4 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+Banana/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+Banana/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+Banana/**/*.png filter=lfs diff=lfs merge=lfs -text
