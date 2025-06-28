@@ -15,9 +15,9 @@ Food waste is a major global challenge. This model helps in classifying bananas 
 
 🛠 Tech Stack - 
 - Python
-- TensorFlow / Keras
+- TensorFlow
 - OpenCV
-- NumPy / scikit-learn
+- NumPy 
 
 📂 Folder Structure - 
 banana-shelf-life-model/
